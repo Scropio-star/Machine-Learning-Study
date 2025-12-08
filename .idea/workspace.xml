@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d9644182-2720-476e-ba25-64121f32d765" name="Changes" comment="Adds label for the plot">
-      <change afterPath="$PROJECT_DIR$/intro_ml_chapt2.ipynb" afterDir="false" />
+    <list default="true" id="d9644182-2720-476e-ba25-64121f32d765" name="Changes" comment="implements n-neighbors KNN model analysis">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/StudyNotebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/StudyNotebook.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intro_ml_chapt2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/intro_ml_chapt2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +79,7 @@
       <workItem from="1760198455098" duration="699000" />
       <workItem from="1760204238259" duration="7415000" />
       <workItem from="1760267546934" duration="3343000" />
-      <workItem from="1765156998809" duration="3227000" />
+      <workItem from="1765156998809" duration="5511000" />
     </task>
     <task id="LOCAL-00001" summary="Implement Linear Regression Fit">
       <option name="closed" value="true" />
@@ -106,7 +105,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760270801009</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="implements n-neighbors KNN model analysis">
+      <option name="closed" value="true" />
+      <created>1765178169690</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1765178169690</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,7 +123,8 @@
     <MESSAGE value="Implement Linear Regression Fit" />
     <MESSAGE value="Implement gradient descent with comparison to Normal function" />
     <MESSAGE value="Adds label for the plot" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adds label for the plot" />
+    <MESSAGE value="implements n-neighbors KNN model analysis" />
+    <option name="LAST_COMMIT_MESSAGE" value="implements n-neighbors KNN model analysis" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
